@@ -1,0 +1,9 @@
+tr[pour='vrai']:hover {
+    background-color: green;
+    border: 1px solid green;
+    color: white;
+}
+
+.container-fluid{
+    background-color: rgb(232, 54, 232);
+}
